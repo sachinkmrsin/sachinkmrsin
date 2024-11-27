@@ -39,12 +39,3 @@ I'm passionate about building impactful applications with TypeScript, React, Nod
 
 <p align="left"> <a href="https://www.github.com/jet-black-ninja" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>    <a href="https://www.linkedin.com/in/sachin-kumar-singh-17s/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/jet-black-ninja"><img src="https://github-readme-stats.vercel.app/api?username=jet-black-ninja&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=84cc16&icon_color=f97316&bg_color=181824&hide_border=true&show_icons=true" alt="jet-black-ninja's GitHub stats" /></a>
-
-<a href="http://www.github.com/jet-black-ninja"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jet-black-ninja&stroke=84cc16&background=181824&ring=a855f7&fire=a855f7&currStreakNum=84cc16&currStreakLabel=a855f7&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
-
-<a href="http://www.github.com/jet-black-ninja"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=jet-black-ninja&bg_color=181824&color=84cc16&line=f97316&point=84cc16&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
