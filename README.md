@@ -2,13 +2,13 @@
 
 ## Full Stack Developer
 
-I create digital experiences that drive results
+I create robust systems which deliver results.
 
 ### Responsibility
 
 I'm currently working on [Butter Fingers](http://github.com/jet-black-ninja/butterfingers2-frontend)
 
-I'm open to collaborating on Websites and React Web apps
+I'm open to collaborating on Backend Systems and Node Apps.
 
 ## Techs
 
